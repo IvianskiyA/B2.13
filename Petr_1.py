@@ -1,0 +1,11 @@
+print('')
+print('')
+print('')
+print('')
+print('')
+print('')
+for i in range(10):
+    print('папа мама тоня петя5455569сэсьялосииялочс')
+print('')
+print('')
+print('')
